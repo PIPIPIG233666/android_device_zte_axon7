@@ -4,8 +4,8 @@ value:2901
 [AID_RFS]
 value:2903
 
-[AID_RFS_SHARED]
-value:2904
+[AID_VENDOR_QDSS]
+value:2902
 
 [vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti]
 mode: 0755
